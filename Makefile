@@ -6,4 +6,7 @@ submodules:
 build:
 	./gradlew assembleDebug
 
-.PHONY: build
+test:
+	./gradlew :app:testDebugUnitTest
+
+.PHONY: build test

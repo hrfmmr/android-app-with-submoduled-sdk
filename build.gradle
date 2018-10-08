@@ -14,6 +14,8 @@ ext {
 
     rxjava2Version = '2.1.6'
     rxkotlinVersion = '2.2.0'
+    mockitoVersion = '2.8.47'
+    mockitoInlineVersion = '2.23.0'
 }
 
 buildscript {
