@@ -1,0 +1,3 @@
+[submodule "android-app-sdk-sandbox"]
+	path = android-app-sdk-sandbox
+	url = git@github.com:hrfmmr/android-app-sdk-sandbox.git
